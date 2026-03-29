@@ -34,7 +34,7 @@ Built with **zero paid API cost** using Groq's free tier and DuckDuckGo search.
 
 ## ⚡ Architecture
 
-![Architecture](multi_agent_research_architecture.png)
+![Architecture](multi_agent_research_architecture.svg)
 <br/>
 
 ---
