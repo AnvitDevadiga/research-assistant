@@ -215,6 +215,6 @@ research-assistant/
 *AI Engineer · Multi-Agent Systems · Production Deployment*
 
 [![GitHub](https://img.shields.io/badge/GitHub-AnvitDevadiga-181717?style=for-the-badge&logo=github)](https://github.com/AnvitDevadiga)
-[![Email](https://img.shields.io/badge/Email-anvitdevadiga.in@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anvitdevadiga.in@gmail.com)
+[![Email](https://img.shields.io/badge/Email-anvitdevadiga@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:anvitdevadiga@outlook.com)
 
 </div>
