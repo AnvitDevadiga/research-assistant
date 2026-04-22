@@ -162,7 +162,7 @@ AI agents in 2026 are characterized by...
 
 ## 🌐 Live Demo
 
-Deployed at: **[research-assistant.onrender.com](https://research-assistant.onrender.com)**
+Deployed at: **[research-assistant.onrender.com](https://research-assistant-k824.onrender.com)**
 
 > Note: Free tier spins down after 15 min inactivity. First request may take ~30 seconds to wake up.
 
